@@ -1,0 +1,29 @@
+{
+  "author": {
+    "name": "Blade Barringer"
+  },
+  "name": "haxfred-irc-swearing-detector",
+  "description": "Haxfred detects swearing and freaks out if you cuss.",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/crookedneighbor/haxfred-irc-swearing-detector"
+  },
+  "main": "./lib/haxfred-irc-swearing-detector",
+  "keywords": [
+    "irc",
+    "haxfred"
+  ],
+  "bin": {},
+  "dependencies": {
+    "haxfred-irc": "",
+    "request": ""
+  },
+  "engines": {
+    "node": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/crookedneighbor/haxfred-irc-swearing-detector/issues"
+  },
+  "homepage": "https://github.com/crookedneighbor/haxfred-irc-swearing-detector",
+  "_id": "haxfred-irc-swearing-detector@0.0.1",
+}
